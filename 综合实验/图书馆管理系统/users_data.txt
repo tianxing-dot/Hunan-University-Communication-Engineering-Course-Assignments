@@ -1,0 +1,2 @@
+demo_admin|demo-admin|1|0|
+demo_reader|demo-reader|2|0|
