@@ -29,7 +29,7 @@ g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 main.cpp Book.cpp Libr
 
 ## 数据与实现
 
-`Book` 负责一条书目的读写，`User`、`Admin` 和 `Reader` 表示不同身份，`Library` 管理数据和借阅操作，`Menu` 负责输入与菜单跳转。[实验报告](实验报告.md)
+`Book` 负责一条书目的读写，`User`、`Admin` 和 `Reader` 表示不同身份，`Library` 管理数据和借阅操作，`Menu` 负责输入与菜单跳转。[实验报告原文（Word）](图书馆管理系统实验报告.docx) · [内容摘要](实验报告.md)
 
 | 文件 | 每行字段，依次用竖线分隔 |
 | --- | --- |
